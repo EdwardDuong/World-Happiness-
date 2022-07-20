@@ -1,0 +1,8 @@
+.LineChart {
+  display: flex;
+  box-sizing: border-box;
+  width: fit-content;
+  height: fit-content;
+  background: white;
+  margin-top: 35px;
+}
